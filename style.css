@@ -8,10 +8,29 @@ header {
     background: #027373;
     text-align: center;
     padding: 30px;
-    color: #fff;
+    color: #F2E7DC;
 }
 
 #left-menu {
     background: #038C7F;
     width: 30%;
+    height: 100vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    background: #027373;
+    text-align: center;
+    padding: 20px;
+    color: #F2E7DC;
 }
