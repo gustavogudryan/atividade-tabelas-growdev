@@ -4,9 +4,17 @@
     font-family: sans-serif;
 }
 
-header {
+#primary-header {
     background: #027373;
     text-align: center;
+    padding: 30px;
+    color: #F2E7DC;
+}
+
+#second-header {
+    display: flex;
+    justify-content: space-around;
+    background: #027373;
     padding: 30px;
     color: #F2E7DC;
 }
@@ -53,6 +61,23 @@ li {
     background: #F2E7DC;
     width: 80%;
 }
+
+/*BASIC-TABLES*/
+
+#basic-table-1 {
+    display: flex;
+    justify-content: center;
+}
+
+#basic-table-1,
+tr,
+td {
+    border: #0D0D0D solid 1px;
+    padding: 30px;
+}
+
+
+
 
 
 footer {
